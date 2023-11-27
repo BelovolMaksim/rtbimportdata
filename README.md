@@ -2,7 +2,7 @@
 
 Путь до Ключа BigQuery треба підставляти сюди:
 
-# Установите переменную окружения GOOGLE_APPLICATION_CREDENTIALS
+ ##Установите переменную окружения GOOGLE_APPLICATION_CREDENTIALS
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/maksym_bilovol/python_scripts/key.json"
 
 
